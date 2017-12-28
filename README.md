@@ -2,7 +2,7 @@
 Store realtime data of exchange centers
 
 
-# Deployment
+# Deployment (TO BE TESTED)
 
 ### Download [release](https://github.com/SpeculationFund/ecpockman/releases)
 
@@ -27,7 +27,7 @@ cd .Build
 * Execute `db.Ticker.find()` to display the created data
 
 
-# Getting Started
+# Getting Started (TO BE TESTED)
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
 
