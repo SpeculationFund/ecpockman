@@ -2,7 +2,7 @@
 Store realtime data of exchange centers
 
 
-# Deployment (TODO)
+# Deployment
 
 ### Download [release](https://github.com/SpeculationFund/ecpockman/releases)
 
@@ -27,7 +27,7 @@ cd .Build
 * Execute `db.Ticker.find()` to display the created data
 
 
-# Getting Started (TODO)
+# Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
 
@@ -79,7 +79,7 @@ Archive:  ecpockman-20171228.zip
  25036384                     4 files
 ``` 
 
-# Logistics (TODO)
+# Logistics
 
 ### Contributing
 
@@ -102,7 +102,7 @@ See also the list of [contributors](https://github.com/your/project/contributors
 * etc
 
 
-### License (open source only)
+### License
 
 This project is licensed under the MIT License - see the [LICENSE.md](https://gist.github.com/Brownyuan/0b754b6009b7a4257bde9d1a23586678) file for details
 
