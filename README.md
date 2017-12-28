@@ -55,8 +55,8 @@ go test
 ```
 
 ### Documentation
-* [GoDoc of dbTool](https://godoc.org/github.com/SpeculationFund/ecpockman)
-* [Development docs of dbTool](https://github.com/SpeculationFund/ecpockman/wiki)
+* [GoDoc of ecpockman](https://godoc.org/github.com/SpeculationFund/ecpockman)
+* [Development docs of ecpockman](https://github.com/SpeculationFund/ecpockman/wiki)
 
 
 ### Build
